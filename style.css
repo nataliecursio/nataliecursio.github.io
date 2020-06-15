@@ -8,6 +8,9 @@ body, html {
 
   /* Full height */
   height: 100%;
+  .sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+  }
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
