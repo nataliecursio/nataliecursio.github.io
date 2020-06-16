@@ -1,11 +1,13 @@
-
 body {
+  font-family: "Cambay";
+  font-size: 22px;
   background-image: url('Untitled-1.png');
 background-repeat: repeat-x;
   }
 
 
 h1 {
+    font-size: 40px;
   color: blue;
   letter-spacing: 3px;
 }
@@ -14,7 +16,6 @@ h1 {
 
 p {
   padding: 15px;
-  margin: 10%;
   color: black;
  text-align: justify;
 }
