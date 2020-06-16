@@ -11,10 +11,10 @@ img {
 }
 
 h1 {
-  font-size: 40px;
-  color: blue;
-  letter-spacing: 6px;
-  font-variant: small-caps;
+  font-size: 36px;
+  color: #669c28;
+  letter-spacing: 8px;
+  font-variant: all-small-caps;
   font-family: "Lato";
 }
 
@@ -30,7 +30,7 @@ p {
   z-index: 1;
   top: 20px;
   left: 10px;
-  background: #eee;
+  background: #a3a3a3;
   overflow-x: hidden;
   padding: 8px 0;
 }
@@ -39,13 +39,13 @@ p {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 25px;
-  color: #4fadfa;
+  color:#669c28;
   display: block;
-  font-variant: small-caps;
+  font-variant: all-small-caps;
 }
 
 .sidenav a:hover {
-  color: #2f7ec4;
+  color: #1a612b;
 }
 
 .main {
