@@ -7,7 +7,8 @@ body {
 h1 {
   font-size: 40px;
   color: blue;
-  letter-spacing: 3px;
+  letter-spacing: 6px;
+  font-variant: small-caps;
 }
 
 p {
@@ -33,6 +34,7 @@ p {
   font-size: 25px;
   color: #2196F3;
   display: block;
+  font-variant: small-caps;
 }
 
 .sidenav a:hover {
@@ -50,5 +52,4 @@ p {
 .center {
   margin: auto;
   width: 60%;
-  border: 3px solid #73AD21;
   padding: 10px;
