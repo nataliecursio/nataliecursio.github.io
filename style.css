@@ -6,6 +6,8 @@ body {
 
 img {
   float: left;
+  -webkit-border-radius: 50px;
+	border-radius: 50px;
 }
 
 h1 {
