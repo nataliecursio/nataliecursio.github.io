@@ -4,6 +4,10 @@ body {
   background-repeat: repeat-x;
 }
 
+img {
+  float: right;
+}
+
 h1 {
   font-size: 40px;
   color: blue;
