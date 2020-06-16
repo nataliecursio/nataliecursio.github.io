@@ -1,53 +1,54 @@
-
 body {
   font-family: "Cambay";
   font-size: 22px;
-  background-image: url('Untitled-1.png');
-background-repeat: repeat-x;
-  }
-
+  background-repeat: repeat-x;
+}
 
 h1 {
-    font-size: 40px;
+  font-size: 40px;
   color: blue;
   letter-spacing: 3px;
 }
 
-
-
 p {
   font-size: 16px;
   color: black;
- text-align: justify;
+  text-align: justify;
 }
 
-
-
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
+.sidenav {
+  width: 130px;
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  background: #eee;
+  overflow-x: hidden;
+  padding: 8px 0;
 }
 
-li {
-  float: left;
-}
-
-li a {
-  display: inline-block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
+.sidenav a {
+  padding: 6px 8px 6px 16px;
   text-decoration: none;
+  font-size: 25px;
+  color: #2196F3;
+  display: block;
 }
 
-li a:hover {
-  background-color: #111;
+.sidenav a:hover {
+  color: #064579;
 }
 
-.active {
-  background-color: red;
+.main {
+  margin-left: 140px;
+  /* Same width as the sidebar + left position in px */
+  font-size: 28px;
+  /* Increased text to enable scrolling */
+  padding: 0px 10px;
 }
+
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
