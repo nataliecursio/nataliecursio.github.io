@@ -1,6 +1,7 @@
 
 body {
   background-image: url('Untitled-1.png');
+background-repeat: repeat-x;
   }
 
 
@@ -11,8 +12,7 @@ h1 {
 
 
 p {
-  border: 2px solid powderblue;
   padding: 15px;
-  margin: 50px;
+  margin: 50%;
   color: black;
 }
