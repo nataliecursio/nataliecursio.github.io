@@ -10,6 +10,13 @@ body {
 	border-radius: 50px;
 }
 
+#job img {
+  float: left;
+  -webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+
 h1 {
   font-size: 36px;
   color: #669c28;
