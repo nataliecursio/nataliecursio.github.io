@@ -7,11 +7,12 @@ body {
 #selfie {
   float: left;
   -webkit-border-radius: 50px;
-	border-radius: 50px;
+	border-radius: 70px;
 }
 
 #job {
-  float: left;s
+  float: left;
+  border: 1px solid #000000;
 }
 
 
