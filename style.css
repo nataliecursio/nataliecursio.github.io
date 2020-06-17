@@ -5,13 +5,13 @@ body {
 }
 
 #selfie {
-  float: right;
+  float: left;
   -webkit-border-radius: 50px;
 	border-radius: 70px;
 }
 
 #job {
-  float: right;
+  float: left;
   border: 1px solid #669c28;
 }
 
@@ -43,7 +43,7 @@ p {
   position: fixed;
   z-index: 1;
   top: 20%;
-  left: 8%;
+  left: 10px;
   background: #669c28;
   overflow-x: hidden;
   padding: 8px 0;
