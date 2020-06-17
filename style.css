@@ -42,7 +42,7 @@ p {
   width: 130px;
   position: fixed;
   z-index: 1;
-  top: 20px;
+  top: 20%;
   left: 40px;
   background: #669c28;
   overflow-x: hidden;
@@ -70,6 +70,6 @@ p {
 
 .center {
   margin: auto;
-  width: 60%;
+  width: 50%;
   padding: 10px;
 }
