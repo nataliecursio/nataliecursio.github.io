@@ -4,13 +4,13 @@ body {
   background-repeat: repeat-x;
 }
 
-#selfie img {
+#selfie {
   float: left;
   -webkit-border-radius: 50px;
 	border-radius: 50px;
 }
 
-#job img {
+#job {
   float: left;
   -webkit-border-radius: 50px;
 	border-radius: 50px;
