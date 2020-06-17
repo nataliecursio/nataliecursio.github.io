@@ -43,7 +43,7 @@ p {
   position: fixed;
   z-index: 1;
   top: 20px;
-  left: 10px;
+  left: 40px;
   background: #669c28;
   overflow-x: hidden;
   padding: 8px 0;
@@ -64,9 +64,7 @@ p {
 
 .main {
   margin-left: 140px;
-  /* Same width as the sidebar + left position in px */
   font-size: 28px;
-  /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
 
