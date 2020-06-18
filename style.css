@@ -16,6 +16,7 @@ body {
 }
 
 
+
 h1 {
   font-size: 36px;
   color: #669c28;
@@ -70,4 +71,6 @@ p {
   margin: auto;
   width: 50%;
   padding: 10px;
+  column-count: 2;
 }
+
