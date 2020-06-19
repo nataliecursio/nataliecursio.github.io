@@ -10,6 +10,12 @@ body {
 	border-radius: 70px;
 }
 
+#landing {
+  float: center;
+  -webkit-border-radius: 50px;
+	border-radius: 70px;
+}
+
 #job {
   float: left;
   border: 1px solid #669c28;
